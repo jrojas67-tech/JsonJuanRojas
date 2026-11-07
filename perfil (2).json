@@ -1,0 +1,11 @@
+{
+  "nombre": "Juan Esteban Rojas Moyano",
+  "descripcion": "Descripción del Estudiante",
+  "gustos": [
+    "Futbol",
+    "Anime",
+    "Musica",
+    "Juegos",
+    "Ejercicio"
+  ]
+}
